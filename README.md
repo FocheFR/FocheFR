@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm an IT Student passionate about **Systems & Net
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentinparent04-commits&show_icons=true&theme=radium" alt="Valentin's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinparent04-commits&theme=radium" alt="Valentin's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FocheFR&show_icons=true&theme=radium" alt="Valentin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FocheFR&theme=radium" alt="Valentin's GitHub Streak" />
 </div>
 
 ## 🏆 Top Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinparent04-commits&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FocheFR&layout=compact&theme=radium" alt="Top Languages" />
 </div>
